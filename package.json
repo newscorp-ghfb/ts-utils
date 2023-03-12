@@ -44,7 +44,7 @@
     "chalk": "^2.4.2",
     "commander": "^4.1.1",
     "isbinaryfile": "^3.0.2",
-    "lodash": "^4.17.12"
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "@types/jest": "^22.1.2",
